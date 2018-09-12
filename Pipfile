@@ -1,0 +1,12 @@
+[packages]
+
+jupyter = "*"
+keras = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+scipy = "*"
+sklearn = "*"
+tensorflow = "*"
+unicodecsv = "*"
